@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bounce/Bounce.iml" filepath="$PROJECT_DIR$/Bounce/Bounce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BounceThread/BounceThread.iml" filepath="$PROJECT_DIR$/BounceThread/BounceThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchBankTest/SynchBankTest.iml" filepath="$PROJECT_DIR$/SynchBankTest/SynchBankTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SynchBankTest2/SynchBankTest2.iml" filepath="$PROJECT_DIR$/SynchBankTest2/SynchBankTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnsynchBankTest/UnsynchBankTest.iml" filepath="$PROJECT_DIR$/UnsynchBankTest/UnsynchBankTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn_multithreading.iml" filepath="$PROJECT_DIR$/.idea/learn_multithreading.iml" />
+    </modules>
+  </component>
+</project>
